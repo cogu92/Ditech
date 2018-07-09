@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorService.Server", "WebApplication1\CalculatorService.Server.csproj", "{CD136F8A-3DF0-4B52-96DB-A22FF1310FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestCalculatorService", "XUnitTestProject1\XUnitTestCalculatorService.csproj", "{48C47C08-EFDE-41C1-9D9B-0F1E772A7AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD136F8A-3DF0-4B52-96DB-A22FF1310FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD136F8A-3DF0-4B52-96DB-A22FF1310FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD136F8A-3DF0-4B52-96DB-A22FF1310FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD136F8A-3DF0-4B52-96DB-A22FF1310FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C47C08-EFDE-41C1-9D9B-0F1E772A7AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C47C08-EFDE-41C1-9D9B-0F1E772A7AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C47C08-EFDE-41C1-9D9B-0F1E772A7AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C47C08-EFDE-41C1-9D9B-0F1E772A7AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A993D120-21B3-4E0E-9D45-583C78411D33}
+	EndGlobalSection
+EndGlobal
